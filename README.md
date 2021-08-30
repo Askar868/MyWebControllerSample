@@ -9,7 +9,7 @@ To work with entities, I created their models.
 Also, each model has its own service that implements the corresponding interface.
 
 **Frameworks and libraries used:**
-+ Platform - ` ASP.Net Core 2.2 `
++ Platform - ` ASP.Net Core 5 `
 + Documentation - `Swagger`
 + Programming language - `C#`
 + Data storage - `SQL Server 2017 DE`
