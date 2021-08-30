@@ -17,4 +17,7 @@ Also, each model has its own service that implements the corresponding interface
 + Dependency injection -` Native ASP.NET Core IOC container`
 + Object mapping - `AutoMapper`
 + Logging - `SeriLog`
-+ Unit testing - `xUnit, Moq, FluentAssertions`
++ Unit testing - `xUnit, Moq, FluentAssertions` 
+
+
+![web api](/web-api.jpg)
